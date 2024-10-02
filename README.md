@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/e73856cf-04c1-4e97-a9c7-283d220c82d8)
+
+![image](https://github.com/user-attachments/assets/bae8da2a-6aab-42db-9e1f-7aa3ed125647)
+
+
 ## io.on(event, callback):
 
 io는 서버 전체를 관리하는 Socket.IO의 인스턴스입니다. <br/>
